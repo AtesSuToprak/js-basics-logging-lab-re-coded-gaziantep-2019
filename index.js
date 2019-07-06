@@ -3,7 +3,7 @@ const driver = 'bob';
   
   console.log (driver);
 
-const driver2 = 'is the driver variable name';
+const driver2 = ' is the driver variable name';
   console.log (driver, driver2);
   
 /*
