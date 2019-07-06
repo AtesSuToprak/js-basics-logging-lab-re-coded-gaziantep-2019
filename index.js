@@ -3,7 +3,8 @@ const driver = 'bob';
   
   console.log (driver);
 
-  console.log (driver,);
+const driver2 = 'is the driver variable name';
+  console.log (driver, driver2);
   
 /*
   describe('console.log()', function () {
